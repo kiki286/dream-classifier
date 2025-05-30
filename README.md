@@ -16,6 +16,7 @@ This project explores unsupervised machine learning techniques to discover emerg
 ---
 
 ## 🧱 Project Structure
+```
 dream-clustering-ml/
 ├── data/ # Raw and processed dream data
 │ ├── raw/ # Original dream JSONs or CSVs
@@ -37,7 +38,7 @@ dream-clustering-ml/
 ├── LICENSE # MIT
 ├── README.md # You Are Here
 └── requirements.txt
-
+```
 ---
 
 ## 📁 Data Source
@@ -57,7 +58,7 @@ Dreams are sourced from [DreamBank](http://www.dreambank.net/) — a public rese
 
 ## 📊 Current Status
 
-- [x] Raw data dream collections
+- [x] Collecting raw data from dream collections
 - [ ] Text cleaning and preprocessing
 - [ ] Vectorization + dimensionality reduction
 - [ ] Clustering and interpretation
