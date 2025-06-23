@@ -59,7 +59,7 @@ Dreams are sourced from [DreamBank](http://www.dreambank.net/) — a public rese
 ## 📊 Current Status
 
 - [x] Collecting raw data from dream collections
-- [ ] Text cleaning and preprocessing
+- [x] Text cleaning and preprocessing
 - [ ] Vectorization + dimensionality reduction
 - [ ] Clustering and interpretation
 - [ ] Visualizations and final writeup
