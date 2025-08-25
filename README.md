@@ -1,21 +1,21 @@
-# 🧠 Dream Clustering — Unsupervised NLP on Personal Dream Reports
+# Dream Clustering — Unsupervised NLP on Personal Dream Reports
 
 This project explores unsupervised machine learning techniques to discover emergent patterns and themes in dream narratives. Using a dataset of dream reports (from DreamBank), I aim to cluster dreams into meaningful groups based on textual content.
 
 ---
 
-## 🔍 Project Goals
+## Project Goals
 
-- 📚 **Preprocess** raw dream text into structured, clean data
-- 🧠 **Vectorize** dreams using TF-IDF and/or sentence embeddings
-- 🌀 **Cluster** dreams using KMeans, DBSCAN, or hierarchical methods
-- 🧾 **Interpret** and name clusters based on top keywords and patterns
-- 📊 **Visualize** dream clusters using 2D projection techniques
-- 📝 **Report** findings in a clear, research-style writeup
+-  **Preprocess** raw dream text into structured, clean data
+-  **Vectorize** dreams using TF-IDF and/or sentence embeddings
+-  **Cluster** dreams using KMeans, DBSCAN, or hierarchical methods
+-  **Interpret** and name clusters based on top keywords and patterns
+-  **Visualize** dream clusters using 2D projection techniques
+-  **Report** findings in a clear, research-style writeup
 
 ---
 
-## 🧱 Project Structure
+##  Project Structure
 ```
 dream-clustering-ml/
 ├── data/ # Raw and processed dream data
@@ -41,13 +41,13 @@ dream-clustering-ml/
 ```
 ---
 
-## 📁 Data Source
+##  Data Source
 
 Dreams are sourced from [DreamBank](http://www.dreambank.net/) — a public research dataset of dream reports from multiple individuals across demographics.
 
 ---
 
-## 🛠️ Tools & Libraries
+##  Tools & Libraries
 
 - Python 3.10+
 - `pandas`, `numpy`
@@ -56,7 +56,7 @@ Dreams are sourced from [DreamBank](http://www.dreambank.net/) — a public rese
 - ...
 
 
-## 📊 Current Status
+##  Current Status
 
 - [x] Collecting raw data from dream collections
 - [x] Text cleaning and preprocessing
